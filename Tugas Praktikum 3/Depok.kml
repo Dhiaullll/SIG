@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Depok</name>
+    <NetworkLink>
+      <name>Praktikum Mandiri 3</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=16YNyURYTlBW0sXz0gFEOPL-dwbUsYK0&lid=DQOrKoUMjVE]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
