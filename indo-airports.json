@@ -1,0 +1,506 @@
+[
+  {
+    "iata": "BDO",
+    "icao": "WICC",
+    "name": "Husein Sastranegara International Airport",
+    "city": "Bandung",
+    "province": "West Java",
+    "country": "Indonesia",
+    "latitude": -6.9039833,  
+    "longitude": 107.5773884
+  },
+  {
+    "iata": "BWX",
+    "icao": "WADY",
+    "name": "Banyuwangi International Airport",
+    "city": "Banyuwangi",
+    "province": "East Java",
+    "country": "Indonesia",
+    "latitude": -8.3104763,  
+    "longitude": 114.3387524 
+
+  },
+  {
+    "iata": "BXW",
+    "icao": "WARW",
+    "name": "Harun Thohir Airport",
+    "city": "Bawean (Gresik)",
+    "province": "East Java",
+    "country": "Indonesia",
+    "latitude": -5.7236177,  
+    "longitude": 112.6783562
+  },
+  {
+    "iata": "CBN",
+    "icao": "WICD",
+    "name": "Cakrabhuwana Airport",
+    "city": "Cirebon",
+    "province": "West Java",
+    "country": "Indonesia",
+    "latitude": -6.7541975,  
+    "longitude": 108.5390834
+  },
+  {
+    "iata": "CGK",
+    "icao": "WIII",
+    "name": "Soekarno-Hatta International Airport",
+    "city": "Jakarta (Tangerang)",
+    "province": "Banten",
+    "country": "Indonesia",
+    "latitude": -6.1221529,  
+    "longitude": 106.6610163
+  },
+  {
+    "iata": "CXP",
+    "icao": "WAHL",
+    "name": "Tunggul Wulung Airport",
+    "city": "Cilacap",
+    "province": "Central Java",
+    "country": "Indonesia",
+    "latitude": -7.6426505,  
+    "longitude": 109.0347576
+  },
+  {
+    "iata": "DPS",
+    "icao": "WADD",
+    "name": "Ngurah Rai International Airport",
+    "city": "Denpasar",
+    "province": "Bali",
+    "country": "Indonesia",
+    "latitude": -8.7443705,  
+    "longitude": 115.1665268
+  },
+  {
+    "iata": "HLP",
+    "icao": "WIHH",
+    "name": "Halim Perdanakusuma International Airport",
+    "city": "Jakarta",
+    "province": "Special Capital Region of Jakarta",
+    "country": "Indonesia",
+    "latitude": -6.2653379,
+    "longitude": 106.8855528
+  },
+  {
+    "iata": "JBB",
+    "icao": "WARE",
+    "name": "Notohadinegoro Airport",
+    "city": "Jember",
+    "province": "East Java",
+    "country": "Indonesia",
+    "latitude": -8.2415587,
+    "longitude": 113.6938437
+
+  },
+  {
+    "iata": "JOG",
+    "icao": "WAHH",
+    "name": "Adisucipto International Airport",
+    "city": "Yogyakarta",
+    "province": "Special Region of Yogyakarta",
+    "country": "Indonesia",
+    "latitude": -7.7889412,  
+    "longitude": 110.4306795
+  },
+  {
+    "iata": "KJT",
+    "icao": "WICA",
+    "name": "Kertajati International Airport",
+    "city": "Majalengka",
+    "province": "West Java",
+    "country": "Indonesia",
+    "latitude": -6.6519467,
+    "longitude": 108.157686
+  },
+  {
+    "iata": "KWB",
+    "icao": "WAHU",
+    "name": "Dewadaru Airport",
+    "city": "Karimunjawa (Jepara)",
+    "province": "Central Java",
+    "country": "Indonesia",
+    "latitude": -5.8024408,
+    "longitude": 110.4757553
+  },
+  {
+    "iata": "MLG",
+    "icao": "WARA",
+    "name": "Abdul Rachman Saleh Airport",
+    "city": "Malang",
+    "province": "East Java",
+    "country": "Indonesia",
+    "latitude": -7.9372009,
+    "longitude": 112.6930632
+  },
+  {
+    "iata": "PCB",
+    "icao": "WIHP",
+    "name": "Pondok Cabe Airport",
+    "city": "Tangerang Selatan",
+    "province": "Banten",
+    "country": "Indonesia",
+    "latitude": -6.3361473,
+    "longitude": 106.7612269
+  },
+  {
+    "iata": "PWL",
+    "icao": "WICP",
+    "name": "Jenderal Besar Soedirman Airport",
+    "city": "Purbalingga",
+    "province": "Central Java",
+    "country": "Indonesia",
+    "latitude": -7.4581697,
+    "longitude": 109.4101006
+
+  },
+  {
+    "iata": "SOC",
+    "icao": "WAHQ",
+    "name": "Adisumarmo International Airport",
+    "city": "Surakarta (Boyolali)",
+    "province": "Central Java",
+    "country": "Indonesia",
+    "latitude": -7.5162391,
+    "longitude": 110.7375643
+  },
+  {
+    "iata": "SRG",
+    "icao": "WAHS",
+    "name": "Jenderal Ahmad Yani International Airport",
+    "city": "Semarang",
+    "province": "Central Java",
+    "country": "Indonesia",
+    "latitude": -7.5162391,
+    "longitude": 110.7375643
+  },
+  {
+    "iata": "SUB",
+    "icao": "WARR",
+    "name": "Juanda International Airport",
+    "city": "Surabaya (Sidoarjo)",
+    "province": "East Java",
+    "country": "Indonesia",
+    "latitude": -7.3788663,
+    "longitude": 112.7847141
+  },
+  {
+    "iata": "TSY",
+    "icao": "WICM",
+    "name": "Wiriadinata Airport",
+    "city": "Tasikmalaya",
+    "province": "West Java",
+    "country": "Indonesia",
+    "latitude": -7.3497142,
+    "longitude": 108.2430121
+  },
+  {
+    "iata": "YIA",
+    "icao": "WAHI",
+    "name": "Yogyakarta International Airport",
+    "city": "Yogyakarta (Kulon Progo)",
+    "province": "Special Region of Yogyakarta",
+    "country": "Indonesia",
+    "latitude": -7.9038637,
+    "longitude": 110.0547467
+  },
+  {
+    "iata": "AEG",
+    "icao": "WIME",
+    "name": "Aek Godang Airport",
+    "city": "Padang Sidempuan",
+    "province": "North Sumatra",
+    "country": "Indonesia",
+    "latitude": 1.3987923,  
+    "longitude": 99.4274326
+  },
+  {
+    "iata": "BKS",
+    "icao": "WIGG",
+    "name": "Fatmawati Soekarno Airport",
+    "city": "Bengkulu",
+    "province": "Bengkulu",
+    "country": "Indonesia",
+    "latitude": -3.8606521,
+    "longitude": 102.3368196
+  },
+  {
+    "iata": "BTH",
+    "icao": "WIDD",
+    "name": "Hang Nadim Internatonal Airport",
+    "city": "Batam",
+    "province": "Riau Islands",
+    "country": "Indonesia",
+    "latitude": 1.1221252,
+    "longitude": 104.1156983
+  },
+  {
+    "iata": "BTJ",
+    "icao": "WITT",
+    "name": "Sultan Iskandar Muda International Airport",
+    "city": "Banda Aceh",
+    "province": "Aceh",
+    "country": "Indonesia",
+    "latitude": 5.5180901,
+    "longitude": 95.4147346
+
+  },
+  {
+    "iata": "BUU",
+    "icao": "WIPI",
+    "name": "Muara Bungo Airport",
+    "city": "Muara Bungo",
+    "province": "Jambi",
+    "country": "Indonesia",
+    "latitude": -1.5428032,
+    "longitude": 102.1753169
+  },
+  {
+    "iata": "DJB",
+    "icao": "WIJJ",
+    "name": "Sultan Thaha Airport",
+    "city": "Jambi",
+    "province": "Jambi",
+    "country": "Indonesia",
+    "latitude": -1.6370552,
+    "longitude": 103.6416853
+  },
+  {
+    "iata": "DTB",
+    "icao": "WIMN",
+    "name": "Sisingamangaraja XII International Airport",
+    "city": "Siborong-borong",
+    "province": "North Sumatra",
+    "country": "Indonesia",
+    "latitude": 2.2606556,  
+    "longitude": 98.9849319
+  },
+  {
+    "iata": "DUM",
+    "icao": "WIBD",
+    "name": "Pinang Kampai Airport",
+    "city": "Dumai",
+    "province": "Riau",
+    "country": "Indonesia",
+    "latitude": 1.6123833,
+    "longitude": 101.4303728
+  },
+  {
+    "iata": "FLZ",
+    "icao": "WIMS",
+    "name": "Ferdinand Lumban Tobing Airport",
+    "city": "Sibolga",
+    "province": "North Sumatra",
+    "country": "Indonesia",
+    "latitude": 1.5547904,
+    "longitude": 98.8939547
+  },
+  {
+    "iata": "GNS",
+    "icao": "WIMB",
+    "name": "Binaka Airport",
+    "city": "Gunung Sitoli",
+    "province": "North Sumatra",
+    "country": "Indonesia",
+    "latitude": 1.166266,
+    "longitude": 97.7017288
+  },
+  {
+    "iata": "KNO",
+    "icao": "WIMM",
+    "name": "Kualanamu International Airport",
+    "city": "Medan (Deli Serdang)",
+    "province": "North Sumatra",
+    "country": "Indonesia",
+    "latitude": 3.6312074,
+    "longitude": 98.8724961
+  },
+  {
+    "iata": "KRC",
+    "icao": "WIPH",
+    "name": "Depati Parbo Airport",
+    "city": "Kerinci",
+    "province": "Jambi",
+    "country": "Indonesia",
+    "latitude": -2.091152,
+    "longitude": 101.4597525
+  },
+  {
+    "iata": "LLG",
+    "icao": "WIPB",
+    "name": "Silampari Airport",
+    "city": "Lubuklinggau",
+    "province": "South Sumatra",
+    "country": "Indonesia",
+    "latitude": -3.2837593,
+    "longitude": 102.9101499
+  },
+  {
+    "iata": "LSW",
+    "icao": "WITM",
+    "name": "Malikus Saleh Airport",
+    "city": "Lhokseumawe",
+    "province": "Aceh",
+    "country": "Indonesia",
+    "latitude": 5.2287926,
+    "longitude": 96.9465308
+  },
+  {
+    "iata": "MEQ",
+    "icao": "WITC",
+    "name": "Cut Nyak Dien Airport",
+    "city": "Suka Makmue (Nagan Raya)",
+    "province": "Aceh",
+    "country": "Indonesia",
+    "latitude": 4.0473257,    
+    "longitude": 96.2464903
+  },
+  {
+    "iata": "MES",
+    "icao": "WIMK",
+    "name": "Soewondo Air Force Base",
+    "city": "Medan",
+    "province": "North Sumatra",
+    "country": "Indonesia",
+    "latitude": 3.5687221,
+    "longitude": 98.6761141
+  },
+  {
+    "iata": "NTX",
+    "icao": "WION",
+    "name": "Ranai Airport",
+    "city": "Ranai",
+    "province": "Riau Islands",
+    "country": "Indonesia",
+    "latitude": 3.9195777,
+    "longitude": 108.3824315
+  },
+  {
+    "iata": "PDG",
+    "icao": "WIEE",
+    "name": "Minangkabau International Airport",
+    "city": "Padang",
+    "province": "West Sumatra",
+    "country": "Indonesia",
+    "latitude": -0.7890619,
+    "longitude": 100.2806414
+  },
+  {
+    "iata": "PGK",
+    "icao": "WIPK",
+    "name": "Depati Amir Airport",
+    "city": "Pangkal Pinang",
+    "province": "Bangka-Belitung Islands",
+    "country": "Indonesia",
+    "latitude": -2.1571727,
+    "longitude": 106.1390766
+  },
+  {
+    "iata": "PKU",
+    "icao": "WIBB",
+    "name": "Sultan Syarif Kasim II International Airport",
+    "city": "Pekanbaru",
+    "province": "Riau",
+    "country": "Indonesia",
+    "latitude": 0.4644969,
+    "longitude": 101.4456216
+  },
+  {
+    "iata": "PLM",
+    "icao": "WIPP",
+    "name": "Sultan Mahmud Badaruddin II International Airport",
+    "city": "Palembang",
+    "province": "South Sumatra",
+    "country": "Indonesia",
+    "latitude": -2.8947938,
+    "longitude": 104.7020722
+  },
+  {
+    "iata": "RGT",
+    "icao": "WIBJ",
+    "name": "Japura Airport",
+    "city": "Rengat",
+    "province": "Riau",
+    "country": "Indonesia",
+    "latitude": -0.3502749,
+    "longitude": 102.3348992
+  },
+  {
+    "iata": "RKI",
+    "icao": "WIBR",
+    "name": "Rokot Airport",
+    "city": "Sipora (Mentawai Islands)",
+    "province": "West Sumatra",
+    "country": "Indonesia",
+    "latitude": -2.0957412,
+    "longitude": 99.6981112
+  },
+  {
+    "iata": "SBG",
+    "icao": "WIAB",
+    "name": "Maimun Saleh Airport",
+    "city": "Sabang",
+    "province": "Aceh",
+    "country": "Indonesia",
+    "latitude": 5.8714684,
+    "longitude": 95.3416521
+  },
+  {
+    "iata": "SIW",
+    "icao": "WIMP",
+    "name": "Sibisa Airport",
+    "city": "Simalungun",
+    "province": "North Sumatra",
+    "country": "Indonesia",
+    "latitude": 2.6000593,
+    "longitude": 98.9641447
+  },
+  {
+    "iata": "TJB",
+    "icao": "WIBT",
+    "name": "Raja Haji Abdullah Airport",
+    "city": "Tanjung Balai Karimun",
+    "province": "Riau Islands",
+    "country": "Indonesia",
+    "latitude": 1.0514588,
+    "longitude": 103.3906906
+  },
+  {
+    "iata": "TJQ",
+    "icao": "WIKT",
+    "name": "H.A.S. Hanandjoeddin International Airport",
+    "city": "Tanjung Pandan",
+    "province": "Bangka-Belitung Islands",
+    "country": "Indonesia",
+    "latitude": -2.7539559,
+    "longitude": 107.7533088
+  },
+  {
+    "iata": "TKG",
+    "icao": "WILL",
+    "name": "Radin Inten II International Airport",
+    "city": "Bandar Lampung",
+    "province": "Lampung",
+    "country": "Indonesia",
+    "latitude": -5.2452552,
+    "longitude": 105.1808598
+  },
+  {
+    "iata": "TNJ",
+    "icao": "WIDN",
+    "name": "Raja Haji Fisabilillah International Airport",
+    "city": "Tanjung Pinang",
+    "province": "Riau Islands",
+    "country": "Indonesia",
+    "latitude": 0.9219561,
+    "longitude": 104.5264098
+  },
+  {
+    "iata": "TXE",
+    "icao": "WITK",
+    "name": "Takengon Rembele Airport",
+    "city": "Takengon",
+    "province": "Aceh",
+    "country": "Indonesia",
+    "latitude": 4.724213,
+    "longitude": 96.8493476
+  }
+]
